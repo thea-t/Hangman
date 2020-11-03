@@ -1,2 +1,1 @@
-# Hangman
- 
+Target platform: Google Chrome
